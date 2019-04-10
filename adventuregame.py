@@ -30,4 +30,9 @@ if begin.lower() == 'n':
     exit()
 else:
     print('You bravely take your first steps into the structure')
+
+print('You step into a dark room')
+input('press enter...')
+print('The moodnlight shines in through an old, broken window, illuminating the room')
+input('press enter...')
     
